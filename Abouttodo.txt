@@ -1,0 +1,5 @@
+This is my TO DO LIST that i mad eusing html,css and java script
+you can use it to write things you want to do later to remember to do it
+it my only full modern style
+i made it with <consts>
+<getelementbyid> and functions
