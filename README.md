@@ -8,6 +8,8 @@ i made it with <consts>
 
 <getelementbyid> and functions
 
+you can find it and other projects at <https://r0t4n1m4.netlify.app/>
+
 ![11](https://github.com/user-attachments/assets/1ca25601-dac3-4e83-9aa3-030d72b330ee)
 
 ![1](https://github.com/user-attachments/assets/5beea188-51b1-4397-9499-5bd8efb56e0a)
